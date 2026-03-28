@@ -25,14 +25,6 @@ pdfplumber
 gTTS (Google Text-to-Speech)
 dotenv
 
-**Project Structure**
-AI-PDF-Chatbot
-│
-├── app.py                # Main Streamlit application
-├── .env                  # API key configuration
-├── requirements.txt      # Project dependencies
-├── faiss_index/          # Generated vector store
-└── README.md             # Project documentation
 
 **Installation**
 
